@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - OverWorld
+  - Town
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Portal
+  - Water
+  - UI
+  - Player
+  - Spawn
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: SkyBox
+    uniqueID: 1520564267
+    locked: 0
+  - name: BackGround
+    uniqueID: 1353230889
+    locked: 0
+  - name: Ground
+    uniqueID: 1435345261
+    locked: 0
+  - name: OnGround
+    uniqueID: 738802495
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ForeGround
+    uniqueID: 7057583
+    locked: 0
+  - name: Sky
+    uniqueID: 2125364781
+    locked: 0
